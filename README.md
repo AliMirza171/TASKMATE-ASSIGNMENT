@@ -1,6 +1,7 @@
 TaskMate – Kotlin Multiplatform Task Manager
 
 TaskMate is a lightweight task management application built using Kotlin Multiplatform, designed to run on Android and Desktop. It helps you keep track of your tasks efficiently, whether you’re on a mobile device or your computer.
+The app makes managing tasks simple and intuitive. You can create, edit, delete, and mark tasks as complete, as well as filter them by status. All your data is saved locally, so there’s no need for a backend or server. The responsive design ensures a smooth experience on both mobile devices and desktop computers.
 
 Key Features
 
